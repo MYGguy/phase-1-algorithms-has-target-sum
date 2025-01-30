@@ -7,7 +7,17 @@ function hasTargetSum(array, target) {
 */
 
 /* 
+  Rewrite the Problem in Your Own Words
+find two numbers in the array that equals the target number. return true or false.
+*/
+
+/* 
   Add your pseudocode here
+function(array, target)
+nested iteration:
+  for of loop array = i
+    for of loop array = j
+    if i + j = target: return true, else continue looking
 */
 
 /*
